@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>FCT2/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>221</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>622</ColumnWidth1><ColumnWidth2>146</ColumnWidth2><ColumnWidth3>36</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log><WATCH_1><PreferedWindows><Position>4</Position><ScreenPosX>177</ScreenPosX><ScreenPosY>129</ScreenPosY><Windows/></PreferedWindows></WATCH_1><Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21082-21559</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>FCT2</ExpandedNode><ExpandedNode>FCT2/UserApp</ExpandedNode><ExpandedNode>FCT2/UserApp/inc</ExpandedNode><ExpandedNode>FCT2/UserApp/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9581-21775</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-25839-13680</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-23800-15523</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\src\main.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>496</SelStart><SelEnd>496</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\src\LCD_13264.C</Filename><XPos>0</XPos><YPos>836</YPos><SelStart>29058</SelStart><SelEnd>29058</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\src\ApiGeneral.c</Filename><XPos>0</XPos><YPos>626</YPos><SelStart>13522</SelStart><SelEnd>13522</SelEnd></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\src\Bsp.c</Filename><XPos>0</XPos><YPos>1077</YPos><SelStart>37261</SelStart><SelEnd>37261</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CMSIS\stm32f2xx_it.c</Filename><XPos>0</XPos><YPos>171</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\src\FIFOQueue.c</Filename><XPos>0</XPos><YPos>338</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\src\Test.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>324</SelStart><SelEnd>324</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\inc\Test.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>425</SelStart><SelEnd>425</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\UserApp\inc\Bsp.h</Filename><XPos>0</XPos><YPos>80</YPos><SelStart>2980</SelStart><SelEnd>2991</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\stm32f2xx_stdperiph_lib\src\stm32f2xx_gpio.c</Filename><XPos>0</XPos><YPos>391</YPos><SelStart>14529</SelStart><SelEnd>14529</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00d70080><key>iaridepm.enu1</key></Toolbar-00d70080></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>493</Bottom><Right>312</Right><x>-2</x><y>-2</y><xscreen>130</xscreen><yscreen>94</yscreen><sizeHorzCX>81250</sizeHorzCX><sizeHorzCY>114914</sizeHorzCY><sizeVertCX>196250</sizeVertCX><sizeVertCY>605134</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>280</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>282</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>344743</sizeHorzCY><sizeVertCX>81250</sizeVertCX><sizeVertCY>114914</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
